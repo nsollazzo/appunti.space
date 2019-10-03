@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+# Welcome to Appunti.space
 
-You can use the [editor on GitHub](https://github.com/nsollazzo/appunti.space/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+In questo sito troverete dispense ed appunti fatti da studenti e NON a cura dei docenti
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Economia ed amministrazione delle imprese
 
-### Markdown
+### Primo Anno
+#### Primo Semestre
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Diritto Pubblico 
+- Matematica Generale I 
+- Inglese
+- Economia Aziendale
 
-```markdown
-Syntax highlighted code block
+#### Secondo Semestre
 
-# Header 1
-## Header 2
-### Header 3
+- Diritto Privato - [Skuola.net](http://bit.ly/dispensa_dirittoprivato) - [Docsity](http://bit.ly/dirpriv_docsity)
+- Statistica - [Skuola.net](http://bit.ly/formulario_statistica) - [Docsity]()
+- Microeconomia - [Skuola.net](http://bit.ly/prove_risolte_microeconomia) - [Docsity](http://bit.ly/micro_docsity)
+- Storia Economica - [Skuola.net](http://bit.ly/stoeco_skuola_net) - [Docsity](http://bit.ly/stoeco_docsity)
 
-- Bulleted
-- List
+### Secondo Anno
+#### Primo Semestre
 
-1. Numbered
-2. List
+- Management
+- Matematica Generale II
+- Matematica Finanziaria
+- Ragioneria
 
-**Bold** and _Italic_ and `Code` text
+#### Secondo Semestre
 
-[Link](url) and ![Image](src)
-```
+- Diritto Commerciale
+- Informatica Generale
+- Macroeconomia
+- Statistica II
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nsollazzo/appunti.space/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
