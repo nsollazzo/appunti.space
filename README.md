@@ -29,6 +29,7 @@ In questo sito troverete dispense ed appunti fatti da studenti e NON a cura dei 
 
 #### Secondo Semestre
 
+- Bilancio e Analisi Economico Finanziaria
 - Diritto Commerciale
 - Informatica Generale
 - Macroeconomia
