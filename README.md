@@ -15,7 +15,7 @@ In questo sito troverete dispense ed appunti fatti da studenti e NON a cura dei 
 #### Secondo Semestre
 
 - Diritto Privato - [Skuola.net](http://bit.ly/dispensa_dirittoprivato) - [Docsity](http://bit.ly/dirpriv_docsity)
-- Statistica - [Skuola.net](http://bit.ly/formulario_statistica) - [Docsity]()
+- Statistica - [Skuola.net](http://bit.ly/formulario_statistica) - [Docsity](http://bit.ly/stat1_docsity)
 - Microeconomia - [Skuola.net](http://bit.ly/prove_risolte_microeconomia) - [Docsity](http://bit.ly/micro_docsity)
 - Storia Economica - [Skuola.net](http://bit.ly/stoeco_skuola_net) - [Docsity](http://bit.ly/stoeco_docsity)
 
