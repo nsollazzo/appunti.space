@@ -7,26 +7,26 @@ In questo sito troverete dispense ed appunti fatti da studenti e NON a cura dei 
 ### Primo Anno
 #### Primo Semestre
 
-1. Diritto Pubblico 
-2. Matematica Generale I 
-3. Inglese
-4. Economia Aziendale
+1. **Diritto Pubblico**
+2. **Matematica Generale I**
+3. **Inglese**
+4. **Economia Aziendale**
 
 #### Secondo Semestre
 
-1. Diritto Privato
+1. **Diritto Privato**
 - <a href="http://bit.ly/dispensa_dirittoprivato" target="_blank" rel="noopener">Skuola.net</a>
 - <a href="http://bit.ly/dirpriv_docsity" target="_blank" rel="noopener">Docsity</a>
 - <a href="http://bit.ly/DirPriv_appuntibay" target="_blank" rel="noopener">Appuntibay</a>
-2. Statistica
+2. **Statistica**
 - <a href="http://bit.ly/formulario_statistica" target="_blank" rel="noopener">Skuola.net</a>
 - <a href="http://bit.ly/stat1_docsity" target="_blank" rel="noopener">Docsity</a>
 - <a href="http://bit.ly/stat1_appuntibay" target="_blank" rel="noopener">Appuntibay</a>
-3. Microeconomia
+3. **Microeconomia**
 - <a href="http://bit.ly/prove_risolte_microeconomia" target="_blank" rel="noopener">Skuola.net</a>
 - <a href="http://bit.ly/micro_docsity" target="_blank" rel="noopener">Docsity</a>
 - <a href="http://bit.ly/micro_appuntibay" target="_blank" rel="noopener">Appuntibay</a>
-4. Storia Economica 
+4. **Storia Economica**
 - <a href="http://bit.ly/stoeco_skuola_net" target="_blank" rel="noopener">Skuola.net</a>
 - <a href="http://bit.ly/stoeco_docsity" target="_blank" rel="noopener">Docsity</a>
 - <a href="http://bit.ly/stoeco-appuntibay" target="_blank" rel="noopener">Appuntibay</a>
@@ -34,15 +34,15 @@ In questo sito troverete dispense ed appunti fatti da studenti e NON a cura dei 
 ### Secondo Anno
 #### Primo Semestre
 
-1. Management
-2. Matematica Generale II
-3. Matematica Finanziaria
-4. Ragioneria
+1. **Management**
+2. **Matematica Generale II**
+3. **Matematica Finanziaria**
+4. **Ragioneria**
 
 #### Secondo Semestre
 
-1. Bilancio e Analisi Economico Finanziaria
-2. Diritto Commerciale
-3. Informatica Generale
-4. Macroeconomia
-5. Statistica II
+1. **Bilancio e Analisi Economico Finanziaria**
+2. **Diritto Commerciale**
+3. **Informatica Generale**
+4. **Macroeconomia**
+5. **Statistica II**
