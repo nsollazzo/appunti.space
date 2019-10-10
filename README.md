@@ -14,10 +14,22 @@ In questo sito troverete dispense ed appunti fatti da studenti e NON a cura dei 
 
 #### Secondo Semestre
 
-- Diritto Privato - [Skuola.net](http://bit.ly/dispensa_dirittoprivato) - [Docsity](http://bit.ly/dirpriv_docsity) - [Appuntibay](http://bit.ly/DirPriv_appuntibay)
-- Statistica - [Skuola.net](http://bit.ly/formulario_statistica) - [Docsity](http://bit.ly/stat1_docsity) - [Appuntibay](http://bit.ly/stat1_appuntibay)
-- Microeconomia - [Skuola.net](http://bit.ly/prove_risolte_microeconomia) - [Docsity](http://bit.ly/micro_docsity) - [Appuntibay](http://bit.ly/micro_appuntibay)
-- Storia Economica - [Skuola.net](http://bit.ly/stoeco_skuola_net) - [Docsity](http://bit.ly/stoeco_docsity) - [Appuntibay](http://bit.ly/stoeco-appuntibay)
+- Diritto Privato
+- - <a href="http://bit.ly/dispensa_dirittoprivato" target="_blank" rel="noopener">Skuola.net</a>
+- - <a href="http://bit.ly/dirpriv_docsity" target="_blank" rel="noopener">Docsity</a>
+- - <a href="http://bit.ly/DirPriv_appuntibay" target="_blank" rel="noopener">Appuntibay</a>
+- Statistica
+- - <a href="http://bit.ly/formulario_statistica" target="_blank" rel="noopener">Skuola.net</a>
+- - <a href="http://bit.ly/stat1_docsity" target="_blank" rel="noopener">Docsity</a>
+- - <a href="http://bit.ly/stat1_appuntibay" target="_blank" rel="noopener">Appuntibay</a>
+- Microeconomia
+- - <a href="http://bit.ly/prove_risolte_microeconomia" target="_blank" rel="noopener">Skuola.net</a>
+- - <a href="http://bit.ly/micro_docsity" target="_blank" rel="noopener">Docsity</a>
+- - <a href="http://bit.ly/micro_appuntibay" target="_blank" rel="noopener">Appuntibay</a>
+- Storia Economica 
+- - <a href="http://bit.ly/stoeco_skuola_net" target="_blank" rel="noopener">Skuola.net</a>
+- - <a href="http://bit.ly/stoeco_docsity" target="_blank" rel="noopener">Docsity</a>
+- - <a href="http://bit.ly/stoeco-appuntibay" target="_blank" rel="noopener">Appuntibay</a>
 
 ### Secondo Anno
 #### Primo Semestre
@@ -34,4 +46,3 @@ In questo sito troverete dispense ed appunti fatti da studenti e NON a cura dei 
 - Informatica Generale
 - Macroeconomia
 - Statistica II
-
