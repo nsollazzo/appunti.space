@@ -14,10 +14,10 @@ In questo sito troverete dispense ed appunti fatti da studenti e NON a cura dei 
 
 #### Secondo Semestre
 
-- Diritto Privato - [Skuola.net](http://bit.ly/dispensa_dirittoprivato) - [Docsity](http://bit.ly/dirpriv_docsity)
+- Diritto Privato - [Skuola.net](http://bit.ly/dispensa_dirittoprivato) - [Docsity](http://bit.ly/dirpriv_docsity) - [Appuntibay](http://bit.ly/DirPriv_appuntibay)
 - Statistica - [Skuola.net](http://bit.ly/formulario_statistica) - [Docsity](http://bit.ly/stat1_docsity) - [Appuntibay](http://bit.ly/stat1_appuntibay)
-- Microeconomia - [Skuola.net](http://bit.ly/prove_risolte_microeconomia) - [Docsity](http://bit.ly/micro_docsity)
-- Storia Economica - [Skuola.net](http://bit.ly/stoeco_skuola_net) - [Docsity](http://bit.ly/stoeco_docsity)
+- Microeconomia - [Skuola.net](http://bit.ly/prove_risolte_microeconomia) - [Docsity](http://bit.ly/micro_docsity) - [Appuntibay](http://bit.ly/micro_appuntibay)
+- Storia Economica - [Skuola.net](http://bit.ly/stoeco_skuola_net) - [Docsity](http://bit.ly/stoeco_docsity) - [Appuntibay](http://bit.ly/stoeco-appuntibay)
 
 ### Secondo Anno
 #### Primo Semestre
