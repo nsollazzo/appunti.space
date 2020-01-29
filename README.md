@@ -36,6 +36,8 @@ In questo sito troverete dispense ed appunti fatti da studenti e NON a cura dei 
 4. **Macroeconomia**
 5. **Statistica II**
 
+# Lascia il tuo indirizzo mail per restare informato sulle prossime dispense!
+
 <style>
     .gumroad-follow-form-embed {
         zoom: 1;
