@@ -14,19 +14,11 @@ In questo sito troverete dispense ed appunti fatti da studenti e NON a cura dei 
 
 #### Secondo Semestre
 
-1. **Diritto Privato**
-- <a href="http://bit.ly/dispensa_dirittoprivato" target="_blank" rel="noopener">Skuola.net</a>
-- <a href="http://bit.ly/dirpriv_docsity" target="_blank" rel="noopener">Docsity</a>
-- <a href="http://bit.ly/DirPriv_appuntibay" target="_blank" rel="noopener">Appuntibay</a>
+1. [**Diritto Privato**](/diritto-privato)
 2. [**Statistica**](/statistica)
-3. **Microeconomia**
-- <a href="http://bit.ly/prove_risolte_microeconomia" target="_blank" rel="noopener">Skuola.net</a>
-- <a href="http://bit.ly/micro_docsity" target="_blank" rel="noopener">Docsity</a>
-- <a href="http://bit.ly/micro_appuntibay" target="_blank" rel="noopener">Appuntibay</a>
-4. **Storia Economica**
-- <a href="http://bit.ly/stoeco_skuola_net" target="_blank" rel="noopener">Skuola.net</a>
-- <a href="http://bit.ly/stoeco_docsity" target="_blank" rel="noopener">Docsity</a>
-- <a href="http://bit.ly/stoeco-appuntibay" target="_blank" rel="noopener">Appuntibay</a>
+3. [**Microeconomia**](/microeconomia)
+4. [**Storia Economica**](/storia-economica)
+
 
 ### Secondo Anno
 #### Primo Semestre
@@ -43,3 +35,78 @@ In questo sito troverete dispense ed appunti fatti da studenti e NON a cura dei 
 3. **Informatica Generale**
 4. **Macroeconomia**
 5. **Statistica II**
+
+<style>
+    .gumroad-follow-form-embed {
+        zoom: 1;
+    }
+
+    .gumroad-follow-form-embed:before,
+    .gumroad-follow-form-embed:after {
+        display: table;
+        line-height: 0;
+        content: "";
+    }
+
+    .gumroad-follow-form-embed:after {
+        clear: both;
+    }
+
+    .gumroad-follow-form-embed * {
+        margin: 0;
+        border: 0;
+        padding: 0;
+        outline: 0;
+        box-sizing: border-box !important;
+        float: left !important;
+    }
+
+    .gumroad-follow-form-embed input {
+        border-radius: 4px;
+        border-top-right-radius: 0;
+        border-bottom-right-radius: 0;
+        font-family: -apple-system, ".SFNSDisplay-Regular", "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-size: 15px;
+        line-height: 20px;
+        background: #fff;
+        border: 1px solid #ddd;
+        border-right: 0;
+        color: #aaa;
+        padding: 10px;
+        box-shadow: inset 0 1px 0 rgba(0, 0, 0, 0.02);
+        background-position: top right;
+        background-repeat: no-repeat;
+        text-rendering: optimizeLegibility;
+        font-smoothing: antialiased;
+        -webkit-appearance: none;
+        -moz-appearance: caret;
+        width: 65% !important;
+        height: 40px !important;
+    }
+
+    .gumroad-follow-form-embed button {
+        border-radius: 4px;
+        border-top-left-radius: 0;
+        border-bottom-left-radius: 0;
+        box-shadow: 0 1px 1px rgba(0, 0, 0, 0.12);
+        -webkit-transition: all .05s ease-in-out;
+        transition: all .05s ease-in-out;
+        display: inline-block;
+        padding: 11px 15px 12px;
+        cursor: pointer;
+        color: #fff;
+        font-size: 15px;
+        line-height: 100%;
+        font-family: -apple-system, ".SFNSDisplay-Regular", "Helvetica Neue", Helvetica, Arial, sans-serif;
+        background: #1b95e0;
+        border: 1px solid #1886ca;
+        filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#41bbff, endColorstr=#198acf, GradientType=0)";
+        background: -webkit-linear-gradient(#41bbff, #198acf);
+        background: linear-gradient(to bottom, #41bbff, #198acf);
+        height: 40px !important;
+        width: 35% !important;
+    }
+</style>
+<form action="https://gumroad.com/follow_from_embed_form" class="form gumroad-follow-form-embed" method="post"> <input
+        name="seller_id" type="hidden" value="8762392430995"> <input name="email" placeholder="Il tuo indirizzo email"
+        type="email"> <button data-custom-highlight-color="" type="submit">Follow Me</button> </form>
