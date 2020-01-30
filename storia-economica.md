@@ -6,9 +6,8 @@
     </embed>
 </object>
 
-## Compra ora
-<script src="https://gumroad.com/js/gumroad-embed.js"></script>
-<div class="gumroad-product-embed" data-gumroad-product-id="hTuHN"><a href="https://gumroad.com/l/hTuHN">Caricamento</a></div>
+<script src="https://gumroad.com/js/gumroad.js"></script>
+<a class="gumroad-button" href="https://gum.co/storia-economica" target="_blank">Copra Ora!</a>
 
 ## Link alternativi
 - <a href="http://bit.ly/stoeco_skuola_net" target="_blank" rel="noopener">Skuola.net</a>

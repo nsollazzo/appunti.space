@@ -7,9 +7,8 @@
     </embed>
 </object>
 
-## Compra ora
-<script src="https://gumroad.com/js/gumroad-embed.js"></script>
-<div class="gumroad-product-embed" data-gumroad-product-id="EQzbp"><a href="https://gumroad.com/l/microeconomia">Caricamento</a></div>
+<script src="https://gumroad.com/js/gumroad.js"></script>
+<a class="gumroad-button" href="https://gum.co/microeconomia">Compra il mio prodotto</a>
 
 ## Link alternativi
 - <a href="http://bit.ly/prove_risolte_microeconomia" target="_blank" rel="noopener">Skuola.net</a>

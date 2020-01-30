@@ -7,9 +7,8 @@
     </embed>
 </object>
 
-## Compra ora
-<script src="https://gumroad.com/js/gumroad-embed.js"></script>
-<div class="gumroad-product-embed" data-gumroad-product-id="statistica"><a href="https://gumroad.com/l/statistica">Caricamento</a></div>
+<script src="https://gumroad.com/js/gumroad.js"></script>
+<a class="gumroad-button" href="https://gum.co/statistica" target="_blank">Compra Ora</a>
 
 ## Link alternativi
 - <a href="http://bit.ly/formulario_statistica" target="_blank" rel="noopener">Skuola.net</a>
