@@ -8,7 +8,7 @@
 </object>
 
 <script src="https://gumroad.com/js/gumroad.js"></script>
-<a class="gumroad-button" href="https://gum.co/microeconomia">Compra il mio prodotto</a>
+<a class="gumroad-button" href="https://gum.co/microeconomia">Compra Ora</a>
 
 ## Link alternativi
 - <a href="http://bit.ly/prove_risolte_microeconomia" target="_blank" rel="noopener">Skuola.net</a>
