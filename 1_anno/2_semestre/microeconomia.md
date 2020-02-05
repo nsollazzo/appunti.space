@@ -3,7 +3,7 @@
 
 <object data="/anteprime/anteprima_dispensa_microeconomia.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="/anteprime/anteprima_dispensa_microeconomia.pdf">
-        <p>Questo browser non supporta la visualizzazione dei PDF. Per favore scarica il file per vederlo: <a href="/anteprime/anteprima_dispensa_microeconomia.pdf">Download PDF</a>.</p>
+        <a href="/anteprime/anteprima_dispensa_microeconomia.pdf">Anteprima Microeconomia</a>
     </embed>
 </object>
 
