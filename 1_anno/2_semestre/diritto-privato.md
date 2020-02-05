@@ -1,8 +1,3 @@
----
-common-css:
-  - "/css/main.css"
----
-
 # Diritto Privato
 
 ## Link alternativi

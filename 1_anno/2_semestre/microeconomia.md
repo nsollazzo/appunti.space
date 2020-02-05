@@ -1,7 +1,15 @@
----
-common-css:
-  - "/css/main.css"
----
+<script>
+    (function() {
+    if( window.innerWidth > 600 ) {
+        var theScript = document.createElement('script');
+        theScript.type = 'text/javascript';
+        theScript.src = 'https://gumroad.com/js/gumroad.js';
+
+        var node = document.getElementsByClass('gumroad-button');
+        node.appendChild(theScript);
+    }
+    })();
+</script>
 
 # Microeconomia
 ## Anteprima dispensa
@@ -20,16 +28,3 @@ common-css:
 - <a href="http://bit.ly/prove_risolte_microeconomia" target="_blank" rel="noopener">Skuola.net</a>
 - <a href="http://bit.ly/micro_docsity" target="_blank" rel="noopener">Docsity</a>
 - <a href="http://bit.ly/micro_appuntibay" target="_blank" rel="noopener">Appuntibay</a>
-
-<script>
-    (function() {
-    if( window.innerWidth > 600 ) {
-        var theScript = document.createElement('script');
-        theScript.type = 'text/javascript';
-        theScript.src = 'https://gumroad.com/js/gumroad.js';
-
-        var head = document.getElementsByClass('gumroad-button');
-        head.appendChild(theScript);
-    }
-    })();
-</script>

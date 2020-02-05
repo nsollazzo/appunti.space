@@ -1,8 +1,3 @@
----
-common-css:
-  - "/css/main.css"
----
-
 # Storia Economica
 ## Anteprima dispensa
 <object data="/anteprime/anteprima_dispensa_storia_economica.pdf" type="application/pdf" width="700px" height="700px">
