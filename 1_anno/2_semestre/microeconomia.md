@@ -12,9 +12,8 @@ common-css:
     </embed>
 </object>
 
-<div id=”gumroad”>
-    <a class="gumroad-button" href="https://gum.co/microeconomia">Compra Ora</a>
-</div>
+
+<a class="gumroad-button" href="https://gum.co/microeconomia">Compra Ora</a>
 
 
 ## Link alternativi
@@ -29,7 +28,7 @@ common-css:
         theScript.type = 'text/javascript';
         theScript.src = 'https://gumroad.com/js/gumroad.js';
 
-        var head = document.getElementsById('gumroad');
+        var head = document.getElementsByClass('gumroad-button');
         head.appendChild(theScript);
     }
     })();
