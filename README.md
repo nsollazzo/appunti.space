@@ -14,10 +14,10 @@ In questo sito troverete dispense ed appunti fatti da studenti e NON a cura dei 
 
 #### Secondo Semestre
 
-1. [**Diritto Privato**](/diritto-privato)
-2. [**Statistica**](/statistica)
-3. [**Microeconomia**](/microeconomia)
-4. [**Storia Economica**](/storia-economica)
+1. [**Diritto Privato**](/1_anno/2_semestre/diritto-privato)
+2. [**Statistica**](/1_anno/2_semestre/statistica)
+3. [**Microeconomia**](/1_anno/2_semestre/microeconomia)
+4. [**Storia Economica**](/1_anno/2_semestre/storia-economica)
 
 
 ### Secondo Anno

@@ -1,3 +1,8 @@
+---
+common-css:
+  - "/css/main.css"
+---
+
 # Statistica I
 ## Anteprima dispensa
 

@@ -1,3 +1,8 @@
+---
+common-css:
+  - "/css/main.css"
+---
+
 # Microeconomia
 ## Anteprima dispensa
 
@@ -7,8 +12,15 @@
     </embed>
 </object>
 
-<script src="https://gumroad.com/js/gumroad.js"></script>
-<a class="gumroad-button" href="https://gum.co/microeconomia">Compra Ora</a>
+<div id=”content-desktop”>
+    <script src="https://gumroad.com/js/gumroad.js"></script>
+    <a class="gumroad-button" href="https://gum.co/microeconomia">Compra Ora</a>
+</div>
+
+<div id=”content-mobile”>
+    <a class="gumroad-button" href="https://gum.co/microeconomia">Compra Ora</a>
+</div>
+
 
 ## Link alternativi
 - <a href="http://bit.ly/prove_risolte_microeconomia" target="_blank" rel="noopener">Skuola.net</a>
