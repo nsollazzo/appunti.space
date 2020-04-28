@@ -1,1 +1,27 @@
-theme: jekyll-theme-hacker
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: "Appunti.space"
+email: sollsharp@gmail.com
+description: "Appunti universitari"
+baseurl: "/jekyll-help-center-theme"
+url: "http://appunti.space"
+github_username:  "nsollazzo"
+color_theme:  "#28c7fa"
+color_text:  "#fff"
+language:  "it"
+
+# Build settings
+markdown: kramdown
+permalink: /:title/
+gems: [jekyll-paginate]
+paginate: 5
+
+# Plugins
+plugins_dir:
+  - jekyll-admin
