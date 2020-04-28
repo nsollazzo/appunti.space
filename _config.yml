@@ -9,7 +9,7 @@
 title: "Appunti.space"
 email: sollsharp@gmail.com
 description: "Appunti universitari"
-baseurl: "/jekyll-help-center-theme"
+baseurl: "/"
 url: "http://appunti.space"
 github_username:  "nsollazzo"
 color_theme:  "#28c7fa"
