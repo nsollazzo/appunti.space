@@ -9,8 +9,8 @@
 title: "Appunti.space"
 email: sollsharp@gmail.com
 description: "Appunti universitari"
-baseurl: "/"
-url: "http://appunti.space"
+# baseurl: "/"
+url: "https://appunti.space"
 github_username:  "nsollazzo"
 color_theme:  "#28c7fa"
 color_text:  "#fff"
@@ -19,9 +19,11 @@ language:  "it"
 # Build settings
 markdown: kramdown
 permalink: /:title/
-gems: [jekyll-paginate]
 paginate: 5
 
 # Plugins
-plugins_dir:
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-livereload
   - jekyll-admin
